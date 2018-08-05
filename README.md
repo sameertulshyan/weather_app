@@ -17,7 +17,7 @@ Python 2.7 or higher
 
 * If you want to find a station code, you can search for a list of station codes by State on the second tab
 
-![Weather App 2](https://sameertulshyan.github.io/weather_app_2_2x.png)
+![Weather App 2](weather_app_2_2x.png)
 
 ## License
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
