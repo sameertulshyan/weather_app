@@ -11,7 +11,7 @@ Python 2.7 or higher
 
 ## Usage  
 * Enter the four-character station code of the city you want to view the data for (e.g. KNYC for Central Park, NYC) 
-![Weather App 1](weather_app/weather_app_1_2x.png) 
+![Weather App 1](weather_app_1_2x.png) 
 
 * Press the "Get Weather" button  
 
