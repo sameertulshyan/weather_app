@@ -15,7 +15,7 @@ Python 2.7 or higher
 
 * Press the "Get Weather" button  
 
-* If you want to find a station code, you can search for a list of station codes by State on the second tab
+* If you want to find a station code, you can search station codes by State on the second tab
 
 ![Weather App 2](weather_app_2_2x.png)
 
