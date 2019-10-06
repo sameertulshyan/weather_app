@@ -4,10 +4,18 @@ The Weather App allows you to view the latest weather data from [weather.gov](ht
 ## Requirements  
 Python 2.7 or higher
 
-## Installation
-1. All libraries are included in the default Python package.
-2. Run the NOAA_weather_app module:
-```$ python NOAA_weather_app.py```
+## Build Instructions
+
+1. Clone the repository onto your local machine
+
+2. Run the following commands:
+```bash
+# cd into the weather_app folder
+cd weather_app
+
+# Run the module
+$ python NOAA_weather_app.py
+```
 
 ## Usage  
 * Enter the four-character station code of the city you want to view the data for (e.g. KNYC for Central Park, NYC) 
